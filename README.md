@@ -11,3 +11,12 @@ line-height: 76px;
 text-transform: capitalize;
 
 color: #000000;
+
+/* Home */
+
+
+position: relative;
+width: 1440px;
+height: 1920px;
+
+background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #230E3E;
